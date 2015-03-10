@@ -1,0 +1,22 @@
+Hard to put take out 3g SIM once the SIM is in place
+
+Heard reports of Google Play failing, but this seems to have been
+fixed.  No problems with Google Play.
+
+Found out that GPS was unnecessary, as Google can use wifi
+geolocation.
+
+Got tablet into odd state in which it didn't start with the dual boot
+screen.  To get it back, you need to press both volume + and power,
+and check item in corner.
+
+It seems that there the time changes suddenly when switching between
+Windows 8.1 and Android.  Clock seems to be in UTC, whereas Windows
+expects local time.
+
+Teclast update just sits and waits.
+
+When I create my own Windows 8.1 account, I can't get traditional
+Chinese, which is odd since the admin account is traditional Chinese.
+
+
