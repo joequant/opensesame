@@ -1,5 +1,9 @@
 Hard to put take out 3g SIM once the SIM is in place
 
+TUI LAUNCHER STINKS - NO APP DRAWER AND WIDGETS - REPLACE WITH NOVA
+LAUNCHER
+
+
 Heard reports of Google Play failing, but this seems to have been
 fixed.  No problems with Google Play.
 

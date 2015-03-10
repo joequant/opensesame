@@ -11,3 +11,7 @@ Language: English (UK)
 Time Zone: Nairobi
 Tablet name: W1Pipo
 Users: admin (no password)
+
+Testing: 
+3G OK
+Wifi OK
